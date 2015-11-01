@@ -16,5 +16,5 @@
     <author href="https://morsmilites.com" email="morsmilites@gmail.com">
         Matrx 
     </author>
-
+<access origin="*"/>
 </widget>
